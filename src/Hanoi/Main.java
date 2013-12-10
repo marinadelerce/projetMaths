@@ -1,4 +1,4 @@
-package hanoi;
+package Hanoi;
 
 public class Main {
 
